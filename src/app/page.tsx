@@ -11,6 +11,7 @@ export default function Home() {
         height={0}
         sizes="100vw" // 화면 너비에 맞춤
         className="w-full h-auto max-w-none" // 비율 유지하면서 가로 꽉 채움
+        unoptimized
       />
     </div>
   );
